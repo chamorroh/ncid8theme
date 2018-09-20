@@ -4,9 +4,10 @@ This is a responsive, mobile-first theme based off of Bootstrap for our NCI webs
 
 ## Web Team
 
-- Horacio Chamorro
+- Clint Malone
 - Chris Kneisler
 - Shaun Einolf
+- Horacio Chamorro
 - Janene Nusraty
 - Laurie Morrissey
-- Clint Malone
+
