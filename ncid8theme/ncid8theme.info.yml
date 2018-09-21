@@ -7,6 +7,7 @@ description: 'NCI Drupal 8 Universal Theme'
 package: 'Bootstrap'
 
 regions:
+  nci_branding: 'Top NCI Branding'
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
@@ -18,7 +19,6 @@ regions:
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
-  nci_branding: 'Top NCI Branding'
-
+  
 libraries:
   - 'ncid8theme/global-styling'
