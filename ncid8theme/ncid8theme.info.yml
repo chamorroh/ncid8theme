@@ -18,6 +18,7 @@ regions:
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
+  nci_branding: 'Top NCI Branding'
 
 libraries:
   - 'ncid8theme/global-styling'
