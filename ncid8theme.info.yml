@@ -8,6 +8,7 @@ package: 'Bootstrap'
 
 regions:
   nci_branding: 'Top NCI Branding'
+  site_branding: 'Site Branding'
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
