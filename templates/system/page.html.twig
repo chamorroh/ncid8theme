@@ -68,7 +68,18 @@
       {% endif %}
       <div class="navbar-header">
         {{ page.navigation }}
-        {{ page.nci_branding }}
+
+
+{% if page.nci_branding %}
+  {% block nci_branding %}
+    <div class="nci_branding">
+      {{ page.nci_branding }}
+    </nci_branding>
+  {% endblock %}
+{% endif %}
+
+
+        
         {{ page.site_branding }}
         {# .btn-navbar is used as the toggle for collapsed navbar content #}
         {% if page.navigation_collapsible %}
